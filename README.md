@@ -1,7 +1,8 @@
 # Death-roll
 MMORPG pseudo-rand gambling.
 
-World-of-Warcraft-like Community gambling on gold rolls
+World-of-Warcraft-like Community gambling on gold rolls via command /roll [X].
+
 Rules:
 1. one person rolls in X scope
 2. if result is not one other person rolls in the scope of previous result and again
